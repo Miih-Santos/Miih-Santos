@@ -7,8 +7,8 @@
 
 </br>
 
-<div style="margin-right: 20px;">
-  <img src="https://i.pinimg.com/originals/fe/63/8d/fe638dc4eec7ddcbf0e772b35713d612.gif" width=330 align="left">
+<div>
+  <img src="https://i.pinimg.com/originals/fe/63/8d/fe638dc4eec7ddcbf0e772b35713d612.gif" width=330 align="left" margin-right= 200 >
 </div>
 
 <div align="center">
@@ -58,10 +58,10 @@ Estou no início da minha jornada, focada em aprender os fundamentos, praticar d
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js" /><br>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postman,git" /><br>
-    <img src="https://skillicons.dev/icons?i=github,figma,vercel,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=express,tailwind,bootstrap,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,vercel,notion" /><br>
 </div>
 
 <br/>
