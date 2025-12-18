@@ -6,6 +6,7 @@
 > _"Você nunca é velho demais para definir outra meta ou para sonhar um novo sonho."_
 
 </br>
+</br>
 
 <div>
   <img src="https://i.pinimg.com/originals/fe/63/8d/fe638dc4eec7ddcbf0e772b35713d612.gif" width=330 align="left" margin-right= 200 >
@@ -28,10 +29,11 @@ Estou no início da minha jornada, focada em aprender os fundamentos, praticar d
 </div>
 
 </br>
+<hr>
 
 <!-- github status-->
-<h3 align="center">
- Github Status 
+<h3>
+ 𓂃⋆.˚ Github Status  ⋆.˚𓂃
 </h3>
 <br>
 
@@ -53,15 +55,18 @@ Estou no início da minha jornada, focada em aprender os fundamentos, praticar d
   
 <!-- My Tech Stack -->
 
-<h3 align="center"> 𓂃⋆.˚ My Tech Stack ⋆.˚𓂃 </h3>
+<h3> 𓂃⋆.˚ My Tech Stack ⋆.˚𓂃 </h3>
 
 <br/>
 
-<div align="center">
+<div>
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=express,tailwind,bootstrap,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=postman,git,github" /><br>
-    <img src="https://skillicons.dev/icons?i=figma,vercel,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=express,tailwind,bootstrap,mysql,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,notion" /><br>
 </div>
 
 <br/>
+<hr>
+<p align="center">
+  💻 Precisando de um freelancer? Entre em contato!
+</p>
